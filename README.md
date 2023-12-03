@@ -3,4 +3,4 @@ Atividade 4 - Uso de cookies e sessão - (Protegendo sua aplicação de usuário
 
 Link do projeto no Github: https://github.com/naatylara/Cookies_PP.git
 
-Link da aplicação hospedada no Vercel: https://formulario-pp.vercel.app/.
+Link da aplicação hospedada no Vercel: https://cookies-pp.vercel.app/.

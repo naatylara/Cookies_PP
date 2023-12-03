@@ -1,5 +1,5 @@
 # Formulario_PP
-Modificações no projeto: Alterando o projeto da atividade 2 para enviar requisições do tipo POST e validação dos dados no lado do servidor.
+Atividade 4 - Uso de cookies e sessão - (Protegendo sua aplicação de usuários não autenticados)
 
 Link do projeto no Github: https://github.com/naatylara/Cookies_PP.git
 
